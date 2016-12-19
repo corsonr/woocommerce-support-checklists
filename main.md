@@ -2,10 +2,10 @@
 
 ######CONFLICT related
 
-Checked for plugin conflict
-Checked for template conflict
+* Checked for plugin conflict
+* Checked for template conflict
 
 ######ISSUE related
 
-Issue reproduced
-Issue is directly linked to one extension
+* Issue reproduced
+* Issue is directly linked to one extension
