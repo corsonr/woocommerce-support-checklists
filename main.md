@@ -15,6 +15,15 @@
 * [ ] Reproduce issue at will
 * [ ] Link issue directly to one extension
 
+
+######ORDERS related
+
+#####Emails not sent
+
+* [ ] Check if order status is updated and >= processing
+* [ ] Check if server is well configured (SOAP, cURL etc...)
+* [ ] Check order notes
+
 ######WooCommerce Subscriptions
 
 * [ ] Determine which payment gateway is used
